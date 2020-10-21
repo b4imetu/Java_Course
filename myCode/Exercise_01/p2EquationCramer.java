@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 //导入必要的组件
 
-public class EquationCramer {
+public class p2EquationCramer {
     public static void Cramer22() {
         // 2*2的Cramer法则函数
         System.out.println("请按照顺序输入a、b、c、d、e、f的值：");

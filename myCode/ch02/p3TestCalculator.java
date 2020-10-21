@@ -1,6 +1,6 @@
 package myCode.ch02;
 
-public class TestCalculator {
+public class p3TestCalculator {
     public static void main(final String[] args) {
         // TODO Auto-generated method stub
         final Calculator cal = new Calculator();

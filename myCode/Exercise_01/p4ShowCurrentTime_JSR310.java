@@ -2,7 +2,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.ZoneOffset;
 
-public class ShowCurrentTime_JSR310 {
+public class p4ShowCurrentTime_JSR310 {
     public static void main(String[] args) {
         LocalTime now = LocalTime.now();
         System.out.println("Current time is " + now + " GMT+08:00");
