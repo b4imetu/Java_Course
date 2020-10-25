@@ -1,5 +1,7 @@
+// 2.6 写程序将键盘输入的16进制数转化为10进制数，并输出到屏幕上
+// Part 2
+// 转化算法——作为静态方法函数提供
 public class p6HexToDecTransform {
-    // 转化算法——作为静态方法函数提供
     public static void hex2DecFun(String data_in) {
         int n;
         try {
