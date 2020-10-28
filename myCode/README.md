@@ -1,3 +1,5 @@
+**`Exercise_05_Source` 及以后的作业暂时不更新了**
+
 ## Java Source Code
 
 solutions to [Java_Course/Exercises/](https://github.com/huzhengatUCSD/Java_Course/tree/master/Exercises).
