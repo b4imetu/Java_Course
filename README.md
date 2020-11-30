@@ -27,7 +27,8 @@ Core Java Volume I-- Fundamentals
 Since 2016 Autumn
 
 # @[b4imetu](https://github.com/b4imetu):
-PDF讲义太大，不利于保存在 `GitHub` 所以压缩体积后上传至百度网盘：
+- Rename `master` Branch to `main` Branch
+- PDF讲义太大，不利于保存在 `GitHub` 所以压缩体积后上传至百度网盘：
 
 ```
 链接：https://pan.baidu.com/s/1P9FhP-BAIrTUfmd5bZ17QA
